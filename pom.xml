@@ -32,6 +32,7 @@
 
 	</properties>	
 	
+<!--
 <distributionManagement>
     <repository>
         <id>release</id>
@@ -44,6 +45,7 @@
         <url>http://3.239.82.160:8082/artifactory/example-repo-local/</url>
     </snapshotRepository>
 </distributionManagement>
+-->
 	
 
 	<scm>
