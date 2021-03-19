@@ -24,12 +24,12 @@
 		<surefire.version>2.17</surefire.version>
 		<jacoco.version>0.7.9</jacoco.version>
 
-<!--
-	    <sonar.projectKey>devworld</sonar.projectKey>
-        <sonar.organization>devworld</sonar.organization>
-        <sonar.host.url>http://18.224.182.98:9000</sonar.host.url>
-        <sonar.login>4a3dc9dedabe9121c190fe4a39cf5e107e7e7ec7</sonar.login>
--->
+
+	  <sonar.projectKey>chennakesavulukummari_javawebapp</sonar.projectKey>
+	  <sonar.organization>chennakesavulukummari</sonar.organization>
+	  <sonar.host.url>https://sonarcloud.io</sonar.host.url>
+	  <sonar.login>15137f2d12424e4755e3ba4666b354074a763591</sonar.login>
+
 	</properties>	
 	
 <distributionManagement>
